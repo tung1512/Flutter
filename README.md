@@ -1,7 +1,8 @@
 # Flutter Learning Materials 📱
 # Duong Van Tung.
 Đây là repository chứa tất cả các tài liệu, ghi chú và bài tập mà tôi đã sử dụng trong quá trình học Flutter.
-# Đây là nhánh featureB
+
+This is branch featureB
 ## Mục Lục
 1. [Giới Thiệu](#giới-thiệu)
 2. [Nội Dung](#nội-dung)
@@ -50,3 +51,4 @@ Nếu bạn có câu hỏi, góp ý hoặc muốn đóng góp vào repository n�
 
 ---
 📧 Liên hệ: tungypbn2001@gmail.com
+"Feature B changes" 
