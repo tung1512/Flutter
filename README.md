@@ -20,6 +20,8 @@ Flutter là một framework do Google phát triển để xây dựng các ứng
 - **Thực hành**: Bài tập và dự án nhỏ giúp nắm vững các kiến thức Flutter.
 - **Bài viết hữu ích**: Các bài viết liên quan đến Flutter mà tôi tìm thấy hữu ích trong quá trình học.
 
+-- Ngày 1:
+    - Làm quen với git.
 ## Cài Đặt
 
 Nếu bạn muốn chạy các dự án ví dụ hoặc bài tập:
